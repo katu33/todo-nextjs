@@ -1,0 +1,8 @@
+export const UserActions = {
+    USER_ADD: 'user/USER_ADD',
+    USER_ADD_SUCCESS: 'user/USER_ADD_SUCCESS',
+    USER_DELETE: 'user/USER_DELETE',
+    USER_DELETE_SUCCESS: 'user/USER_DELETE_SUCCESS',
+    USER_EDIT: 'user/USER_EDIT',
+    USER_EDIT_SUCCESS: 'user/USER_EDIT_SUCCESS',
+}
